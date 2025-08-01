@@ -11,7 +11,7 @@
 
 Focus: KingSpec SSDs, including different storage capacities (e.g., 256GB, 512GB, 1TB) and customer regions in Africa.
 
-## Key Analyses
+## Key Analysis
  - Data Cleaning:Handle missing values (e.g., filling missing ratings with the median).
  - Convert order_date to datetime for time-based analysis.
  - Remove duplicates to ensure data accuracy.
